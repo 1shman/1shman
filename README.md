@@ -3,7 +3,7 @@
 I am a first-year Masters student at the University of Michigan studying Information Sciences interested in pursuing a career in Software Development and Data Analytics
 
 ### About
-📚 I am currently learning Servers, Shell, & Git and Statistics and Data Analysis <br/>
+📚 I am currently learning Servers, Shell, & Git coupled with Statistics and Data Analysis <br/>
 🔬 I am also working on extracurricular projects as well as leetcode problems<br/>
 📬 Please feel free to reach out to me via [LinkedIn](http://www.linkedin.com/in/1shman00) or at ishman@umich.edu<br/>
 <!--
