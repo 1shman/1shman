@@ -1,6 +1,6 @@
 ## Hi there, I'm Ishraq 👋
 
-I am a first-year Masters student at the University of Michigan studying Information Sciences interested in pursuing a career in Software Development and Analytics
+I am a first-year Masters student at the University of Michigan studying Information Sciences interested in pursuing a career in Software Development and Data Science/Analytics
 
 ### About
 📚 I am currently learning Servers, Shell, & Git coupled with Statistics and Data Analysis <br/>
