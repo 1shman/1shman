@@ -4,7 +4,7 @@ I am a first-year Masters student at the University of Michigan studying Informa
 
 ### About
 📚 I am currently learning Servers, Shell, & Git coupled with Statistics and Data Analysis <br/>
-🔬 I am also working on extracurricular projects as well as leetcode problems<br/>
+🔬 I am also working on extracurricular projects that utilize SQL and data visualization <br/>
 📬 Please feel free to reach out to me via [LinkedIn](http://www.linkedin.com/in/1shman00) or at ishman@umich.edu<br/>
 <!--
 **1shman/1shman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
