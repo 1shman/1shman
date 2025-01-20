@@ -1,6 +1,6 @@
 ## Hi there, I'm Ishraq 👋
 
-I am a first-year Masters student at the University of Michigan studying Information Sciences interested in pursuing a career in Data Science/Analytics
+I am a first-year Masters student at the University of Michigan studying Information Sciences interested in pursuing a career in Data Science/Engineering
 
 ### About
 📚 I am currently learning Data Manipulation & Analysis in Python coupled with SQL & Databases <br/>
