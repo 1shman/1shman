@@ -1,10 +1,10 @@
 ## Hi there, I'm Ishraq 👋
 
-I am a second-year Masters student at the University of Michigan studying Information Science interested in pursuing a career in Data Engineering/Software Engineering
+I am a second-year Masters student at the University of Michigan studying Information Science pursuing a career in Software Engineering
 
 ### About
 📚 I am currently learning Information Retrieval, Applied Machine Learning & Data Mining <br/>
-📬 Please feel free to reach out to me via [LinkedIn](http://www.linkedin.com/in/1shman00) or at ishman@umich.edu<br/>
+📬 Please feel free to reach out to me via [LinkedIn](http://www.linkedin.com/in/ishraqr) or at ishman@umich.edu<br/>
 <!--
 **1shman/1shman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
